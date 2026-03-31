@@ -1,1 +1,37 @@
-{"ReverseCategorys": true, "ShowPrivateWorld": true, "Categorys": []}
+{
+  "ReverseCategorys": true,
+  "ShowPrivateWorld": true,
+  "Categorys": [
+    {
+      "Category": "チル",
+      "Worlds": [
+        {
+          "ID": "wrld_a22fe9c5-5375-4915-a4c7-aee2573d4f73ftfessfk",
+          "Name": "沖縄の動画を見れるチルワ",
+          "RecommendedCapacity": 0,
+          "Capacity": 0,
+          "Description": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1cc6ac8e-237f-4a1a-9b6d-0a6e15cf99dd",
+          "Name": "新しいワールChillChi-nuド",
+          "RecommendedCapacity": 0,
+          "Capacity": 0,
+          "Description": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ]
+}
