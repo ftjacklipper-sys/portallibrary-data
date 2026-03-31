@@ -27,6 +27,19 @@
           "Description": "",
           "ReleaseStatus": "public",
           "RecommendedCapacity": 0
+        },
+        {
+          "ID": "wrld_2c6ed8ae-9f25-48cc-b850-1c82e01a276e",
+          "Name": "紡ぎの広場 ~ Weave a Garden ~",
+          "RecommendedCapacity": 30,
+          "Capacity": 30,
+          "Description": "2026⁄03⁄25 ビリヤード、麻雀（TANKI）、防音室（声、動画のみ）を追加しました （ポータルライブラリは誠意調整中です․․․ もう少し待ってね！） 色んな機能を入れ込んだチルワです！ Quest用対応ですが、容量制限回避のために一部テクスチャ圧縮やギミックを削っています。 みんなでわいわいしたり、1人でのんびりしたり、気軽に使ってみてください！",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ],
       "Category": "チルワ"
