@@ -50,6 +50,24 @@
           "ReleaseStatus": "public"
         }
       ]
+    },
+    {
+      "Category": "ゲーム",
+      "Worlds": [
+        {
+          "ID": "wrld_e1d9a41c-99d3-4585-81e4-ce5eb006679e",
+          "Name": "Snow Park",
+          "RecommendedCapacity": 0,
+          "Capacity": 0,
+          "Description": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
     }
   ]
 }
