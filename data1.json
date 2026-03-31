@@ -32,6 +32,24 @@
           "ReleaseStatus": "public"
         }
       ]
+    },
+    {
+      "Category": "ホラワ",
+      "Worlds": [
+        {
+          "ID": "wrld_621f8d39-5f17-4da7-b675-4e3ac832c8b6",
+          "Name": "Sad Amelia",
+          "RecommendedCapacity": 0,
+          "Capacity": 0,
+          "Description": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
     }
   ]
 }
