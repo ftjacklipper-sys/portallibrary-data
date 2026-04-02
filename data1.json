@@ -2,7 +2,7 @@
   "Categorys": [
     {
       "Icon": "💫",
-      "Color": "#f59e0b",
+      "Color": "#10b981",
       "Worlds": [
         {
           "ID": "wrld_a22fe9c5-5375-4915-a4c7-aee2573d4f73",
@@ -1939,11 +1939,12 @@
           "ReleaseStatus": "public"
         }
       ],
-      "Category": "ホラワ"
+      "Category": "ホラワ",
+      "Color": "#8b5cf6"
     },
     {
       "Category": "MMD",
-      "Color": "#8b5cf6",
+      "Color": "#ef4444",
       "Worlds": [
         {
           "ID": "wrld_e684c2c3-4a13-4ad4-9b9c-698b1059b359",
@@ -2241,7 +2242,7 @@
     },
     {
       "Category": "景色系",
-      "Color": "#10b981",
+      "Color": "#f59e0b",
       "Worlds": [
         {
           "ID": "wrld_9ceebde5-fadc-4279-9e4f-fb2d0db80e0c",
@@ -2416,7 +2417,7 @@
     },
     {
       "Category": "企画・施設",
-      "Color": "#f59e0b",
+      "Color": "#ff6d2e",
       "Worlds": [
         {
           "ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
