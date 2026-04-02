@@ -60,6 +60,19 @@
           "Description": "",
           "ReleaseStatus": "public",
           "RecommendedCapacity": 0
+        },
+        {
+          "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+          "Name": "Terrors of Nowhere",
+          "RecommendedCapacity": 16,
+          "Capacity": 19,
+          "Description": "Friends＋ or Group heavily recommended․ ｜（HEAVY WORLD）This world contains flashing lights and jumpscares․｜ A chaotic udon survival game․ Supports 16 players‚ up to 19․｜ Version 1․18b｜ There will be bugs․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ],
       "Category": "ゲーム"
