@@ -5,32 +5,6 @@
       "Color": "#10b981",
       "Worlds": [
         {
-          "ID": "wrld_a22fe9c5-5375-4915-a4c7-aee2573d4f73",
-          "Name": "沖縄の動画を見れるチルワ",
-          "Capacity": 0,
-          "Platform": {
-            "PC": false,
-            "iOS": false,
-            "Android": false
-          },
-          "Description": "",
-          "ReleaseStatus": "public",
-          "RecommendedCapacity": 0
-        },
-        {
-          "ID": "wrld_1cc6ac8e-237f-4a1a-9b6d-0a6e15cf99dd",
-          "Name": "ChillChi-nu",
-          "Capacity": 0,
-          "Platform": {
-            "PC": false,
-            "iOS": false,
-            "Android": false
-          },
-          "Description": "",
-          "ReleaseStatus": "public",
-          "RecommendedCapacity": 0
-        },
-        {
           "ID": "wrld_2c6ed8ae-9f25-48cc-b850-1c82e01a276e",
           "Name": "紡ぎの広場 ~ Weave a Garden ~",
           "Capacity": 30,
@@ -920,6 +894,32 @@
           "RecommendedCapacity": 30,
           "Capacity": 35,
           "Description": "Enjoy a quiet night with the melody of the stars․ 動画視聴やVR睡眠向けのワールドです。太古の光が奏でる星光の旋律と、時を超えた物語の中で静かな夜を過ごせます。【VRChat向けワールド】LumiRoom ⁄ TR-shader",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1cc6ac8e-237f-4a1a-9b6d-0a6e15cf99dd",
+          "Name": "ChillChi-nu",
+          "RecommendedCapacity": 10,
+          "Capacity": 15,
+          "Description": "ゆめかわでチル。ナイトモードはベッドライトから！シーシャは炭を焼いてから！",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a22fe9c5-5375-4915-a4c7-aee2573d4f73",
+          "Name": "沖縄の動画を見れるチルワ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "めんそーれ！ 沖縄の動画が流れるチルワです QVPen‚睡眠システム等々必要なものがそろってます",
           "Platform": {
             "PC": true,
             "Android": false,
