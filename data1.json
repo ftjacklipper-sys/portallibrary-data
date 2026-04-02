@@ -1,16 +1,85 @@
 {
-  "ReverseCategorys": true,
-  "ShowPrivateWorld": true,
   "Categorys": [
     {
-      "Category": "テストカテゴリー",
+      "Icon": "💫",
+      "Color": "#f59e0b",
       "Worlds": [
         {
-          "ID": "wrld_test1234-5678-9abc-def0-123456789abc",
-          "Name": "テストワールド",
-          "RecommendedCapacity": 20,
-          "Capacity": 50,
-          "Description": "テスト用ワールド",
+          "ID": "wrld_a22fe9c5-5375-4915-a4c7-aee2573d4f73",
+          "Name": "沖縄の動画を見れるチルワ",
+          "Capacity": 0,
+          "Platform": {
+            "PC": false,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 0
+        },
+        {
+          "ID": "wrld_1cc6ac8e-237f-4a1a-9b6d-0a6e15cf99dd",
+          "Name": "ChillChi-nu",
+          "Capacity": 0,
+          "Platform": {
+            "PC": false,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 0
+        },
+        {
+          "ID": "wrld_2c6ed8ae-9f25-48cc-b850-1c82e01a276e",
+          "Name": "紡ぎの広場 ~ Weave a Garden ~",
+          "Capacity": 30,
+          "Platform": {
+            "PC": true,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "2026⁄03⁄25 ビリヤード、麻雀（TANKI）、防音室（声、動画のみ）を追加しました （ポータルライブラリは誠意調整中です․․․ もう少し待ってね！） 色んな機能を入れ込んだチルワです！ Quest用対応ですが、容量制限回避のために一部テクスチャ圧縮やギミックを削っています。 みんなでわいわいしたり、1人でのんびりしたり、気軽に使ってみてください！",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 30
+        }
+      ],
+      "Category": "チルワ"
+    },
+    {
+      "Worlds": [
+        {
+          "ID": "wrld_e1d9a41c-99d3-4585-81e4-ce5eb006679e",
+          "Name": "Snow Park",
+          "Capacity": 0,
+          "Platform": {
+            "PC": false,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 0
+        },
+        {
+          "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+          "Name": "Terrors of Nowhere",
+          "Capacity": 19,
+          "Platform": {
+            "PC": true,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "Friends＋ or Group heavily recommended․ ｜（HEAVY WORLD）This world contains flashing lights and jumpscares․｜ A chaotic udon survival game․ Supports 16 players‚ up to 19․｜ Version 1․18b｜ There will be bugs․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
+        },
+        {
+          "ID": "wrld_8520938f-be8c-4f08-8d7a-c4b346ea9e9a",
+          "Name": "スイカスマッシュ！ Suika Smashǃ",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "スイカを殴ってぶっ飛ばし飛距離を競うダイナミックスイカ割りゲーム！ ホロナツパラダイス ホロナツクイーン決定戦！in VRChat 採用ゲーム ホロライブ要素はありません",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -18,7 +87,28 @@
           },
           "ReleaseStatus": "public"
         }
-      ]
+      ],
+      "Category": "ゲーム"
+    },
+    {
+      "Worlds": [
+        {
+          "ID": "wrld_621f8d39-5f17-4da7-b675-4e3ac832c8b6",
+          "Name": "Sad Amelia",
+          "Capacity": 0,
+          "Platform": {
+            "PC": false,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 0
+        }
+      ],
+      "Category": "ホラワ"
     }
-  ]
+  ],
+  "ReverseCategorys": true,
+  "ShowPrivateWorld": true
 }
