@@ -1822,19 +1822,6 @@
     {
       "Worlds": [
         {
-          "ID": "wrld_621f8d39-5f17-4da7-b675-4e3ac832c8b6",
-          "Name": "Sad Amelia",
-          "Capacity": 0,
-          "Platform": {
-            "PC": false,
-            "iOS": false,
-            "Android": false
-          },
-          "Description": "",
-          "ReleaseStatus": "public",
-          "RecommendedCapacity": 0
-        },
-        {
           "ID": "wrld_fa12f381-6196-4ba5-9f9f-d443d6ebdd6b",
           "Name": "Horror Portal JP-ホラーポータルJP-",
           "RecommendedCapacity": 32,
@@ -1931,6 +1918,19 @@
           "RecommendedCapacity": 5,
           "Capacity": 10,
           "Description": "静まり返った洋館に響くのは、ただ少女の足音だけ。プレイ時間：約10分／人数：1～10人（推奨1～5人）／ジャンプスケアあり／SE：びたちー素材館様ほか ⁄Playtime˸ about 10 minutes‚ up to 10 players‚ jumpscares included․․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_54d74b4d-a582-4306-9024-94da717659bc",
+          "Name": "Sad Amelia",
+          "RecommendedCapacity": 3,
+          "Capacity": 3,
+          "Description": "Made by OfficialSayon This is a remake （sort of） of Sad Satan‚ the Dark-Web horror game․ I gave it a custom spin-story to it so its more enjoyable․ I did altered a few things to make it less․․․ Well‚ for those that know․ You know․",
           "Platform": {
             "PC": true,
             "Android": false,
