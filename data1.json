@@ -926,6 +926,149 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4ae52b66-3445-40a9-8c02-caf0d1347ac8",
+          "Name": "Japan Rainy Day",
+          "RecommendedCapacity": 9,
+          "Capacity": 20,
+          "Description": "日本の田舎、雨の日におうちでごろごろしましょう。 Let's lie around at home on a rainy day in the Japanese countryside",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b95f863c-fc88-4ac1-b4c0-d15b4383b0d2",
+          "Name": "思い寝-omoine-",
+          "RecommendedCapacity": 2,
+          "Capacity": 2,
+          "Description": "ふたりっきりの小旅行、夢まで君で満たされて",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_06c8fd77-bdfb-47c2-83dd-cd6a52a7e6a4",
+          "Name": "Nebula Nest",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "If you want to use the video player‚ please turn on the PC․ To toggle the mirror‚ find and interact with the star-shaped switchǃ",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_75db953b-bf23-4eb0-a0ed-b96a19c1ddce",
+          "Name": "GensuiRoom",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "おはよう！朝4時に何してるんだい？",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_48b52ad8-0ada-481c-b3dd-ef0aec2a884c",
+          "Name": "wait'n for",
+          "RecommendedCapacity": 2,
+          "Capacity": 16,
+          "Description": "月と暗めな寝床が好きな方にどうぞ。 Yamaplayer⁄QVpen⁄VisitorInformationBoard⁄VRCHandmenu",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_63cbfc3b-3037-44c5-9739-b7284fda528d",
+          "Name": "健全なお部屋2 ⁄ -SFW- ROOM2",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "軽量で健全な空間で集まりたい！ をコンセプトに作りました！寝落ちした人はトングで防音室にGO！フレンドランチャーでフレンドを3000m先のゴールにシュゥゥゥット！？ラジコン＆コースや食べ物飲み物も完備！色々軽量化しておりますので比較的動作は軽いです、景色はリアル時間と連動してるよ！ご意見ご要望は【ふにゃごん】まで！",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3590d19a-80fc-48fa-980d-2e0247b04968",
+          "Name": "羽夢星亭 Japanese Ryokan Ham-Stay",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "露天風呂と豪華なお食事つきの日本旅館です。各種飲食ギミックの他、ミニゲームやカラオケなどみんなで集まって遊べる機能が充実。寝室も用意してありますので、V睡ワールドとしてもお使いいただけます。秘密の隠し部屋もありますので、ぜひ探してみてくださいね！ This Japanese ryokan features open-air hot springs and luxurious meals․ Its packed with fun interactive features like food and drink gimmicks‚ mini-games‚ and karaokeperfect for group hangoutsǃ With cozy bedrooms provided‚ its also an ideal spot for V-sleeping․ Theres even a secret hidden room․․․ see if you can find itǃ",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c276f6ca-720b-4bf4-abbe-0b691d0aefcb",
+          "Name": "深海住居区_B-37812",
+          "RecommendedCapacity": 24,
+          "Capacity": 24,
+          "Description": "深海×近未来をテーマにした多機能ホーム用ワールドです。V睡空間（アラーム機能有り）‚秘密のBar‚のんびりできる大広間。 その他機能はアップデート予定。 Themed around Deepsea × near-future‚ this is a multi-functional home world․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7f57dd54-8710-46b3-9f7f-de58af208b1c",
+          "Name": "久芳苑 Kyuhoen",
+          "RecommendedCapacity": 2,
+          "Capacity": 4,
+          "Description": "お寿司しゃぶしゃぶ天ぷら食べ放題の宿。お風呂で一献。一人旅や二人旅にどうぞ⁄A Japanese traditional inn offering all-you-can-eat sushi‚ shabu-shabu‚ and tempura․ Enjoy a drink in the bath․ Perfect for solo or couples․⁄這家旅館提供壽司、涮涮鍋和天婦羅自助餐。您也可以在浴缸裡小酌一杯。非常適合單人或情侶入住⁄Penginapan yang makan sushi‚ shabu-shabu‚ dan tempura sepuasnya․ Nikmati minuman di pemandian air panas․ Sempurna untuk solo atau pasangan․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
+          "Name": "SuRroom",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Experience true VR home world․ Multilingual supported․ created by ˸ CITRUS Studio members˸［＂Shatoo＂‚ ＂ureishi＂‚ ＂Rastvas＂‚ ＂Izzy_da＂］",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a222cdff-bec7-4f07-a6dd-66a17e7d9ec5",
+          "Name": "旅館「あかつき」",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "温泉やサウナが楽しめる旅館。 宴会用のミニゲームを備えたお食事処もあります。各種ツール取り揃えてます。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ],
       "Category": "チル"
@@ -1815,6 +1958,32 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_04ff549e-6b5a-4a9a-a60e-a3df4c038778",
+          "Name": "筑波サーキット-TsukubaCircuit-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Riding cars ＆ motorcycles on TsukubaCircuit․ Powerd by CHIKUWA VEHICLE SYSTEM 2",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_edfe25fd-c303-4591-b96f-5c7205ad66a2",
+          "Name": "一致するまで寝れまテン",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "お題に対して全員の回答が一定回数揃えばクリア！な協力ゲームです。共感性や想像力が試されます。 プレイ人数：2～10人、プレイ時間：30min ～",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ],
       "Category": "ゲーム"
@@ -1931,6 +2100,19 @@
           "RecommendedCapacity": 3,
           "Capacity": 3,
           "Description": "Made by OfficialSayon This is a remake （sort of） of Sad Satan‚ the Dark-Web horror game․ I gave it a custom spin-story to it so its more enjoyable․ I did altered a few things to make it less․․․ Well‚ for those that know․ You know․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1e364e73-681a-43a5-a7d4-06aab9635e4a",
+          "Name": "ピ虐研究所 Pi˸G RESEARCH Lab -PIGYAKU HORROR-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパーク『ぽこピーランド』のアトラクション、『ピ虐研究所』のQuest対応単体バージョンです！！",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -2237,6 +2419,19 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cf6ab04f-412f-4b9f-9ef1-6470afe5fc60",
+          "Name": "",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "16作目 いますぐ輪廻",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -2406,6 +2601,19 @@
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "Havana",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6b66a99f-d283-4ab8-8f55-ba1981df34c9",
+          "Name": "Epilogue․ Chapter 2 （v․1․1）",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "＂ Epilogue․ Chapter 2＂․ Continuation of the story of the man in the hat․ This is the final part of the Organism trilogy․ v1․1-Fixed collision and occlusion bugs‚ added missing chairs （thanks to everyone who sent bug reports）",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -2620,6 +2828,58 @@
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "このワールドは日本語話者が中国語を学ぶ事を目的としたワールドです。 現在はHSKをベースにした単語や文法を学べるスライドを用意しております。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8ca15987-54f5-46c7-bb53-60a5c69582be",
+          "Name": "Avatar Museum 13",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "事前ダウンロードを推奨しております 「アバターだけの展示会」 AvatarMuseum13 アバターとポスターだけを展示するシンプルな展示会です。 This is the simplest exhibition․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f20326da-f1ac-45fc-a062-609723b097b1",
+          "Name": "PyPyDance",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "just dance fitness workout ppd jd",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e7b0876f-a839-46ac-bd23-6b8648b566a3",
+          "Name": "星と、誕生と。",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Happy Birthdayǃ",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1",
+          "Name": "日语学习［CN⁄JP］日本語能力試験",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "天気がいいから、散歩しましょう。",
           "Platform": {
             "PC": true,
             "Android": false,
