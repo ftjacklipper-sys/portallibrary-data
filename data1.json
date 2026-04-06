@@ -3238,6 +3238,45 @@
           "ReleaseStatus": "public"
         },
         {
+          "ID": "wrld_01543f8c-87c1-4267-9006-4884cdd864fd",
+          "Name": "KEK教育加速器ーメタバース博物館（MAM）展示室",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "高エネルギー加速器研究機構（KEK）で実際に使われている教育用の加速器が展示されていて、その中の構造まで分かります。また電子が加速されていくシミュレーションが見えます。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_90d08aeb-eaf4-4279-a764-166517672b94",
+          "Name": "メタバース加速器博物館 （MAM） 玄関ホール",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "加速器のメタバース加速器博物館 （MAM）の玄関ホールで、屋上にセミナー会場があります。各加速器展示室に行くためのポータルが設置されています。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
+          "Name": "SPring-8",
+          "RecommendedCapacity": 40,
+          "Capacity": 40,
+          "Description": "兵庫県にある大型放射光施設SPring-8の蓄積リング棟内を再現したワールドです。非公式です。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
           "ID": "wrld_41113a52-6298-4de0-a1ee-76c25108d8b6",
           "Name": "VFN_Full scale Tokamak fusion reactor",
           "RecommendedCapacity": 20,
@@ -3472,6 +3511,19 @@
           "ReleaseStatus": "public"
         },
         {
+          "ID": "wrld_bcd58f65-9606-457c-adae-c5387c06c400",
+          "Name": "贵州省地质博物馆",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "贵州省地质博物馆官方授权VRCHAT展馆",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
           "ID": "wrld_fddc2eff-c599-4168-ae32-7c9f78dba977",
           "Name": "The Dinosaur Bone Gallery Museum․",
           "RecommendedCapacity": 40,
@@ -3563,6 +3615,19 @@
           "ReleaseStatus": "public"
         },
         {
+          "ID": "wrld_32ea3f32-46f9-4c8f-ad67-c43945cab8fc",
+          "Name": "虚拟数码博物馆V1․1 Virtual Digital Product Museum",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "《虚拟数码博物馆》是一个以消费类电子产品为主题的虚拟博物馆，目前已经开放游览中，正在 Beta 测试中，可能会有部分错误和问题，可以进群交流和反馈建议。 ＂Virtual Digital Product Museum＂ is a virtual museum with the theme of consumer electronics․ It is currently open for tours and is in beta testing․ There may be some errors and problems․ You can join the QQ group to communicate and give feedback․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
           "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
           "Name": "Korean Study Museum JPN",
           "RecommendedCapacity": 40,
@@ -3581,6 +3646,19 @@
           "RecommendedCapacity": 32,
           "Capacity": 64,
           "Description": "Do you know all the countries? すべての国を知っていますか?",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f2a22dfc-ac50-4608-89d7-c8e3e9e619c3",
+          "Name": "BostonTeaParty",
+          "RecommendedCapacity": 43,
+          "Capacity": 50,
+          "Description": "Sons of Libertyǃ Throw all tea boxes on the boat into the sea․Boston Harbor a tea-pot tonightǃ ボストン茶会事件を体験できるワールドです。船に積まれた茶箱をすべて海に投げ捨てましょう。ボストン港をティーポットに！ BGM yankee doodle（violin ver） ˸ by Carrie Rehkopf ․ British grenadiers ˸ by ilodolly ․ yankee doodle ˸ by U․S․ Army ․ Hail‚ Columbia˸by US Navy Band's",
           "Platform": {
             "PC": true,
             "Android": false,
