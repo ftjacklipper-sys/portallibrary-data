@@ -3143,7 +3143,7 @@
       "Category": "ドライブ、レース"
     },
     {
-      "Category": "技術・学術（文理両方）",
+      "Category": "技術・学術",
       "Color": "#8b5cf6",
       "Worlds": [
         {
@@ -3204,6 +3204,32 @@
           "RecommendedCapacity": 24,
           "Capacity": 64,
           "Description": "重力多体計算で遊べるワールドです。 以下の４つのシミュレータを置いています。 ・惑星形成 ・渦巻銀河 ・銀河の衝突合体 ・宇宙誕生～大規模構造形成 Created by S_ASAGIRI",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_29daf324-96f9-4ba3-a9ad-2a4012effeef",
+          "Name": "Solar System",
+          "RecommendedCapacity": 30,
+          "Capacity": 80,
+          "Description": "An interactive VR planetary showcase with dynamic spatial animations ｜ A captivating fusion of art and science ｜ An immersive educational experience ｜ A guided multiplayer expedition that transforms astronomy into aweaccessible‚ emotional‚ unforgettable ｜ Planets orbit with scientifically accurate scale and motion ｜ Explore Mercury to Neptune‚ Jupiter and many other planets ｜ Experience Mars‚ witness the Chicxulub impact‚ or journey into the Suns fiery core ｜ PCVR ＆ Android ｜ The environment is actively updated and optimized for both VR Quest and desktop usersmaintaining high visual fidelity across platforms․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b2a8d97b-c69e-4988-be07-d7d365cd4c02",
+          "Name": "地球が1cmになる大きさ",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "このワールドは「鬼畜だよ」と何回も忠告しても要望が多かったリアル等倍スケールの太陽系ワールドになります。半径78․88auのワールドです。 制御システムの一部星、座線の制御UIは開発中の物を流用しています。 等倍に当たりScale計算との整合性の確信を得るのに1週間以上の時間はかかっています。 要望に無かった星座線とHUDはせめてもの優しさになります。 全９惑星と月を見つける事が出来て撮ったら「＃VC_Akino」のタグでツイートしてくれると嬉しいな！",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3290,11 +3316,24 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed",
-          "Name": "Tribology World",
+          "ID": "wrld_ca491b7d-21ff-4e9a-abe4-f06fba4f3ce2",
+          "Name": "VR実験表現美術館",
+          "RecommendedCapacity": 32,
+          "Capacity": 80,
+          "Description": "Α ΟΦΘΑΛΜΟΣ ΟΥΚ ΕΙΔΕΝ ΚΑΙ ΟΥΣ ΟΥΚ ΗΚΟΥΣΕΝ ΚΑΙ ΕΠΙ ΚΑΡΔΙΑΝ ΑΝΘΡΩΠΟΥ ΟΥΚ ΑΝΕΒΗ VSP6周年記念イベント「クリエイタースポットライト」会場",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5b8c8005-8e09-4e95-a36f-1b0dcade0d9f",
+          "Name": "SpaceCraft Collection",
           "RecommendedCapacity": 25,
           "Capacity": 50,
-          "Description": "トライボロジー（摩擦・摩耗・潤滑に関する学問分野）について、実際にモノを動かして体験したり、学べるワールドです。",
+          "Description": "created by S_ASAGIRI․",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3303,24 +3342,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_36c8c2af-1b98-4395-8c0d-69d2348c5b9a",
-          "Name": "巨大数展 - Exhibition of Large Numbers -",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "ただただ大きい数について考える。 そんなロマン溢れる巨大数の世界をあなたも覗いてみませんか？",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_5dcd0010-ed7f-4375-95b9-a9cf9e21be37",
-          "Name": "Country Quiz 国クイズ",
+          "ID": "wrld_64006d53-5fde-4e0e-99a8-a755860a6f39",
+          "Name": "SLIM_Touchdown",
           "RecommendedCapacity": 32,
           "Capacity": 64,
-          "Description": "Do you know all the countries? すべての国を知っていますか?",
+          "Description": "2024⁄05⁄29 Animation Update",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3329,11 +3355,24 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_d189cfd1-e62d-425f-bcb1-d52d0a63e594",
-          "Name": "Expanding Path",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "A one-way maze from 2D to 5D․",
+          "ID": "wrld_5b435ff8-e5a5-46cc-bfea-285996d1bdc9",
+          "Name": "Cat's Planetarium",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "It is a multifunctional planetarium․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_297f348e-fcc6-4337-9d19-9eaa357e7e72",
+          "Name": "Million Sky Highland",
+          "RecommendedCapacity": 50,
+          "Capacity": 50,
+          "Description": "望遠鏡を使ったリアルな天体観測が楽しめます。125万個の星を散りばめた星空は、望遠鏡で拡大すればするほど駒かな星粒に。月や土星も見ごたえがあります。 ⁄ 1․25 million stars from the Gaia star catalog fill the sky‚ with the Milky Way rendered as countless faint stars․ Enjoy beautiful magnified views through realistic telescopes․ （You can also zoom in with the standard camera․） ［Star Data˸ Gaia DR3 （ESA⁄Gaia⁄DPAC）］",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3355,24 +3394,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_ddeb0f75-8642-4774-b910-d5573bc75026",
-          "Name": "Museum of Evolution",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "A fully fledged museum of evolution‚ featuring interactive simulations‚ giant dinosaurs‚ and tons of interesting and fun info․ Good for anyone with an interest in natural history or biology․ Extensively researched․",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_29daf324-96f9-4ba3-a9ad-2a4012effeef",
-          "Name": "Solar System",
+          "ID": "wrld_865570fd-5a54-4974-910c-b3b76b1b38ce",
+          "Name": "HIPPARCOS SALON",
           "RecommendedCapacity": 30,
-          "Capacity": 80,
-          "Description": "An interactive VR planetary showcase with dynamic spatial animations ｜ A captivating fusion of art and science ｜ An immersive educational experience ｜ A guided multiplayer expedition that transforms astronomy into aweaccessible‚ emotional‚ unforgettable ｜ Planets orbit with scientifically accurate scale and motion ｜ Explore Mercury to Neptune‚ Jupiter and many other planets ｜ Experience Mars‚ witness the Chicxulub impact‚ or journey into the Suns fiery core ｜ PCVR ＆ Android ｜ The environment is actively updated and optimized for both VR Quest and desktop usersmaintaining high visual fidelity across platforms․",
+          "Capacity": 60,
+          "Description": "113‚711個もの星の中を地球から離れて歩き回ることができるワールドです。夜空で見かける星たちに歩いて行ってみてください。",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3381,11 +3407,24 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_c937bde4-b585-4e6b-9623-d16525780287",
-          "Name": "Inter-action on the Math",
-          "RecommendedCapacity": 48,
-          "Capacity": 48,
-          "Description": "Interactive playground for intuitive recognition of mathematical concepts",
+          "ID": "wrld_498c3871-4760-4179-93f2-301fa1e8f402",
+          "Name": "VRC天気予報",
+          "RecommendedCapacity": 16,
+          "Capacity": 33,
+          "Description": "VRChatで天気予報を体感できるワールドです。 ワールド内で表示している天気予報は気象庁HPの内容を転載しています。 2025-05-22 ver1․1 ワールドを一新。軽量化。2025-05-31 ver1․2 科学館追加",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed",
+          "Name": "Tribology World",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "トライボロジー（摩擦・摩耗・潤滑に関する学問分野）について、実際にモノを動かして体験したり、学べるワールドです。",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3420,11 +3459,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_498c3871-4760-4179-93f2-301fa1e8f402",
-          "Name": "VRC天気予報",
+          "ID": "wrld_ddeb0f75-8642-4774-b910-d5573bc75026",
+          "Name": "Museum of Evolution",
           "RecommendedCapacity": 16,
-          "Capacity": 33,
-          "Description": "VRChatで天気予報を体感できるワールドです。 ワールド内で表示している天気予報は気象庁HPの内容を転載しています。 2025-05-22 ver1․1 ワールドを一新。軽量化。2025-05-31 ver1․2 科学館追加",
+          "Capacity": 32,
+          "Description": "A fully fledged museum of evolution‚ featuring interactive simulations‚ giant dinosaurs‚ and tons of interesting and fun info․ Good for anyone with an interest in natural history or biology․ Extensively researched․",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3433,37 +3472,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_5b8c8005-8e09-4e95-a36f-1b0dcade0d9f",
-          "Name": "SpaceCraft Collection",
-          "RecommendedCapacity": 25,
-          "Capacity": 50,
-          "Description": "created by S_ASAGIRI․",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_b3ddaecd-3966-47cc-85bd-6a9fa2feabc3",
-          "Name": "Japan sword Museum ⁄ -シンヤの刀剣博物館-",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "このワールドはBoothで販売している日本刀を展示しています！ また日本刀についてのちょっとした説明などもありますので、日本刀に興味がある人も楽しめます！",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_5b435ff8-e5a5-46cc-bfea-285996d1bdc9",
-          "Name": "Cat's Planetarium",
+          "ID": "wrld_fddc2eff-c599-4168-ae32-7c9f78dba977",
+          "Name": "The Dinosaur Bone Gallery Museum․",
           "RecommendedCapacity": 40,
           "Capacity": 80,
-          "Description": "It is a multifunctional planetarium․",
+          "Description": "A prehistoric Dinosaur Museum with everything handmade from scratch in SculptrVR‚ Masterpiece Studio Pro‚ Tiltbrush‚ Shapelabs and Blender for tidy up․ Added Find my friends prefab‚ for help for late joiners to tours․ I'm currently working on a new improved version of this for a standalone museum experience․ Updated portals and entrance for the 79th Annual 2022 Venice Film Festival․",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3472,76 +3485,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_865570fd-5a54-4974-910c-b3b76b1b38ce",
-          "Name": "HIPPARCOS SALON",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "113‚711個もの星の中を地球から離れて歩き回ることができるワールドです。夜空で見かける星たちに歩いて行ってみてください。",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_637b4753-bf69-4f17-9bad-ab8ac2760c7f",
-          "Name": "Manufacturing World - Cutting Tool ⁄ 京セラ",
-          "RecommendedCapacity": 30,
-          "Capacity": 40,
-          "Description": "Manufacturing World - Cutting Tool ⁄ 京セラ",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
-          "Name": "VR Art Museum 西洋絵画美術館 v1․1",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_ca491b7d-21ff-4e9a-abe4-f06fba4f3ce2",
-          "Name": "VR実験表現美術館",
-          "RecommendedCapacity": 32,
-          "Capacity": 80,
-          "Description": "Α ΟΦΘΑΛΜΟΣ ΟΥΚ ΕΙΔΕΝ ΚΑΙ ΟΥΣ ΟΥΚ ΗΚΟΥΣΕΝ ΚΑΙ ΕΠΙ ΚΑΡΔΙΑΝ ΑΝΘΡΩΠΟΥ ΟΥΚ ΑΝΕΒΗ VSP6周年記念イベント「クリエイタースポットライト」会場",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
-          "Name": "Korean Study Museum JPN",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "日本語圏の話者のための韓国語学習博物館です。This world is a Korean language learning space for Japanese speakers․ 일본어권 학습자를 위한 한국어학습박물관입니다․",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_b2a8d97b-c69e-4988-be07-d7d365cd4c02",
-          "Name": "地球が1cmになる大きさ",
-          "RecommendedCapacity": 40,
-          "Capacity": 80,
-          "Description": "このワールドは「鬼畜だよ」と何回も忠告しても要望が多かったリアル等倍スケールの太陽系ワールドになります。半径78․88auのワールドです。 制御システムの一部星、座線の制御UIは開発中の物を流用しています。 等倍に当たりScale計算との整合性の確信を得るのに1週間以上の時間はかかっています。 要望に無かった星座線とHUDはせめてもの優しさになります。 全９惑星と月を見つける事が出来て撮ったら「＃VC_Akino」のタグでツイートしてくれると嬉しいな！",
+          "ID": "wrld_c937bde4-b585-4e6b-9623-d16525780287",
+          "Name": "Inter-action on the Math",
+          "RecommendedCapacity": 48,
+          "Capacity": 48,
+          "Description": "Interactive playground for intuitive recognition of mathematical concepts",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3563,11 +3511,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_297f348e-fcc6-4337-9d19-9eaa357e7e72",
-          "Name": "Million Sky Highland",
-          "RecommendedCapacity": 50,
-          "Capacity": 50,
-          "Description": "望遠鏡を使ったリアルな天体観測が楽しめます。125万個の星を散りばめた星空は、望遠鏡で拡大すればするほど駒かな星粒に。月や土星も見ごたえがあります。 ⁄ 1․25 million stars from the Gaia star catalog fill the sky‚ with the Milky Way rendered as countless faint stars․ Enjoy beautiful magnified views through realistic telescopes․ （You can also zoom in with the standard camera․） ［Star Data˸ Gaia DR3 （ESA⁄Gaia⁄DPAC）］",
+          "ID": "wrld_36c8c2af-1b98-4395-8c0d-69d2348c5b9a",
+          "Name": "巨大数展 - Exhibition of Large Numbers -",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ただただ大きい数について考える。 そんなロマン溢れる巨大数の世界をあなたも覗いてみませんか？",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3576,11 +3524,11 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_64006d53-5fde-4e0e-99a8-a755860a6f39",
-          "Name": "SLIM_Touchdown",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "2024⁄05⁄29 Animation Update",
+          "ID": "wrld_d189cfd1-e62d-425f-bcb1-d52d0a63e594",
+          "Name": "Expanding Path",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "A one-way maze from 2D to 5D․",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3594,6 +3542,71 @@
           "RecommendedCapacity": 20,
           "Capacity": 40,
           "Description": "主に開発中の京セラレーザー製品の完成イメージをご覧いただけます。またレーザー光源が作り出す新たな未来と称して光無線通信Li-Fiの応用例として期待される水中ドローンが動作する様子をご覧いただけるアトラクションを用意しております。イベント開催期間˸6⁄29-7⁄2（20˸00-23˸00）フロアツアーは20時、21時、22時",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_637b4753-bf69-4f17-9bad-ab8ac2760c7f",
+          "Name": "Manufacturing World - Cutting Tool ⁄ 京セラ",
+          "RecommendedCapacity": 30,
+          "Capacity": 40,
+          "Description": "Manufacturing World - Cutting Tool ⁄ 京セラ",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
+          "Name": "Korean Study Museum JPN",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "日本語圏の話者のための韓国語学習博物館です。This world is a Korean language learning space for Japanese speakers․ 일본어권 학습자를 위한 한국어학습박물관입니다․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5dcd0010-ed7f-4375-95b9-a9cf9e21be37",
+          "Name": "Country Quiz 国クイズ",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "Do you know all the countries? すべての国を知っていますか?",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
+          "Name": "VR Art Museum 西洋絵画美術館 v1․1",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b3ddaecd-3966-47cc-85bd-6a9fa2feabc3",
+          "Name": "Japan sword Museum ⁄ -シンヤの刀剣博物館-",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "このワールドはBoothで販売している日本刀を展示しています！ また日本刀についてのちょっとした説明などもありますので、日本刀に興味がある人も楽しめます！",
           "Platform": {
             "PC": true,
             "Android": false,
