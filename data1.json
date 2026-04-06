@@ -2890,236 +2890,268 @@
       "Category": "企画・施設"
     },
     {
-      "Category": "ドライブ、レース",
       "Color": "#10b981",
       "Worlds": [
         {
           "ID": "wrld_8db66e34-2cd3-4933-a81b-69b8f0a73066",
           "Name": "Daytona International Speedway",
-          "RecommendedCapacity": 30,
           "Capacity": 55,
-          "Description": "Experience superspeedway racing at its finest at Daytona International Speedway‚ recreated in its modern 2025 layout and built for high speed pack racing in NASCVR․ Take the wheel of early 2000s Gen 4 stock cars and battle it out on the high banks of one of the most legendary tracks in motorsports‚ home of the Daytona 500․ This world introduces drafting to NASCVR racing‚ allowing drivers to work together to gain speed‚ build runs‚ and make last-lap passes just like real superspeedway competition․ With tight packs‚ fast slipstream racing‚ and the constant fight for position‚ every lap at Daytona can change in an instant․ Whether you're chasing the win or just enjoying the ride‚ this track is built to capture the intensity and excitement that makes Daytona one of the most famous speedways in the world․",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Experience superspeedway racing at its finest at Daytona International Speedway‚ recreated in its modern 2025 layout and built for high speed pack racing in NASCVR․ Take the wheel of early 2000s Gen 4 stock cars and battle it out on the high banks of one of the most legendary tracks in motorsports‚ home of the Daytona 500․ This world introduces drafting to NASCVR racing‚ allowing drivers to work together to gain speed‚ build runs‚ and make last-lap passes just like real superspeedway competition․ With tight packs‚ fast slipstream racing‚ and the constant fight for position‚ every lap at Daytona can change in an instant․ Whether you're chasing the win or just enjoying the ride‚ this track is built to capture the intensity and excitement that makes Daytona one of the most famous speedways in the world․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 30
         },
         {
           "ID": "wrld_a0859486-9382-44e5-95cd-727cf106f5e6",
           "Name": "茂原ツインサーキット⁄mobara twin -CVS2-",
-          "RecommendedCapacity": 10,
           "Capacity": 32,
-          "Description": "Map made by ＠DajaLevin2nd Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2）",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Map made by ＠DajaLevin2nd Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2）",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 10
         },
         {
           "ID": "wrld_3f0d78a5-0703-4f8f-be48-f5938a48f986",
           "Name": "双ツ鏡湖外周道-ChikuwaVehicleSystem2-",
-          "RecommendedCapacity": 15,
           "Capacity": 30,
-          "Description": "ǃ音量注意-Volume warning-ǃ 1周約8kmの幅の広いオリジナルレイアウトの湖外周道です。 いつものドリフト車のほか、グリップカーや初心者でも乗りやすいゆったりドライブのできる車、おまけにバイクも。 2026⁄04⁄01 軽微な修正。",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "ǃ音量注意-Volume warning-ǃ 1周約8kmの幅の広いオリジナルレイアウトの湖外周道です。 いつものドリフト車のほか、グリップカーや初心者でも乗りやすいゆったりドライブのできる車、おまけにバイクも。 2026⁄04⁄01 軽微な修正。",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 15
         },
         {
           "ID": "wrld_9c735b27-3086-4978-9b9b-02683b12eb94",
           "Name": "［Initial D］ Nagao",
-          "RecommendedCapacity": 30,
           "Capacity": 60,
-          "Description": "Nagao from Initial D Arcade Stage Zero",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Nagao from Initial D Arcade Stage Zero",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 30
         },
         {
           "ID": "wrld_2c51c7d3-90d0-4ab6-b426-175af3cfdeeb",
           "Name": "［Initial D］ Tsuchisaka",
-          "RecommendedCapacity": 30,
           "Capacity": 60,
-          "Description": "Tsuchisaka from Initial D Arcade Stage Zero",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Tsuchisaka from Initial D Arcade Stage Zero",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 30
         },
         {
           "ID": "wrld_39f60611-6d49-4f46-b869-3c69f57d86ad",
           "Name": "Bathurst Race Track",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Race on the legendary Bathurst track 伝説のバサースト・サーキットでレース開始。初心者からプロの走りへ。",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Race on the legendary Bathurst track 伝説のバサースト・サーキットでレース開始。初心者からプロの走りへ。",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_daf7fdf0-228a-471e-8f6c-be51ad153891",
           "Name": "榛名-Haruna-",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Riding cars ＆ motorcycles on Touge․ Haruna map made by ＠dutch_typeR Powerd by CHIKUWA VEHICLE SYSTEM 2",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Riding cars ＆ motorcycles on Touge․ Haruna map made by ＠dutch_typeR Powerd by CHIKUWA VEHICLE SYSTEM 2",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_9a17a599-e79d-4b12-b9fb-3bc3fc95fcdc",
           "Name": "Fujino-GT",
-          "RecommendedCapacity": 35,
           "Capacity": 80,
-          "Description": "日本のモータースポーツにもっと活気を！｜走行ガイド設置｜GTカーの「雰囲気を楽しむ」ことを重視したレース＆チルワールドです。｜写真を撮りたい人も、走行感を味わいたい人も、FujinoGTで自由な時間をお過ごしください｜＃FujinoGT｜ChikuwaVehicleSystem2 v2․33｜QVペン｜LQミラー｜iwaSync3｜26⁄1⁄20~ Ver6․0",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "日本のモータースポーツにもっと活気を！｜走行ガイド設置｜GTカーの「雰囲気を楽しむ」ことを重視したレース＆チルワールドです。｜写真を撮りたい人も、走行感を味わいたい人も、FujinoGTで自由な時間をお過ごしください｜＃FujinoGT｜ChikuwaVehicleSystem2 v2․33｜QVペン｜LQミラー｜iwaSync3｜26⁄1⁄20~ Ver6․0",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 35
         },
         {
           "ID": "wrld_26e9c85b-fbf8-4a16-a1ad-089a472ed7e5",
           "Name": "名阪Cコース⁄meihan c course -CVS2-",
-          "RecommendedCapacity": 8,
           "Capacity": 32,
-          "Description": "Map made by ＠Revival_rx7 TEAM REVIVAL Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2）",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Map made by ＠Revival_rx7 TEAM REVIVAL Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2）",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 8
         },
         {
           "ID": "wrld_e4ecd2a7-2165-407a-80b5-2dcbebca0f7e",
           "Name": "Cougar Circuit Drift CVS2",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Cougar Circuit made by ZZPuma․ Converted into Vrchat with permission․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Cougar Circuit made by ZZPuma․ Converted into Vrchat with permission․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_c996e43c-3b2b-4bd0-bb2c-03c4184d80f6",
           "Name": "Nedry's Final Drive （Jurassic Park 1993）",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "This map is a recreation of the famous scene from the 1993 film ＂Jurassic Park＂ directed by Steven Spielberg where you can travel the same path Dennis Nedry took where he met his demise or you can drive to the east docks successfully doing what Dennis Nedry failed to do․ its up to you whether or not Dodgson gets that canister so dont let him down․․․",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "This map is a recreation of the famous scene from the 1993 film ＂Jurassic Park＂ directed by Steven Spielberg where you can travel the same path Dennis Nedry took where he met his demise or you can drive to the east docks successfully doing what Dennis Nedry failed to do․ its up to you whether or not Dodgson gets that canister so dont let him down․․․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_34b09d29-7e3d-416b-a2e7-a6ba04857620",
           "Name": "Laguna Seca Race Track 1․2",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Laguna Seca Race Track",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Laguna Seca Race Track",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_45810882-5085-4888-96a3-69e2fb63249f",
           "Name": "表六甲⁄omote rokko -CVS2-",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Map made by ＠gobeyond_fps Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Map made by ＠gobeyond_fps Converted with official permission Let's enjoy street drift and drive Reresed by TREClover this world used Chikuwa vehicle system 2",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_c94ab1d6-cc52-41f9-8cdb-6f7798171512",
           "Name": "Ebisu Higashi （East） Course CVS2 Drift",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Ebisu Higashi Circuit made by Supr1k https˸⁄⁄vk․com⁄racingcultclub․ World thumbnail picture taken by˸ crabman823․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Ebisu Higashi Circuit made by Supr1k https˸⁄⁄vk․com⁄racingcultclub․ World thumbnail picture taken by˸ crabman823․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_08802cde-7efa-4b88-8336-7a1b27dc2bc3",
           "Name": "龍鉤山-ChikuwaVehicleSystem2-",
-          "RecommendedCapacity": 15,
           "Capacity": 30,
-          "Description": "ǃ音量注意-Volume warning-ǃ 約2․8kmのオリジナルレイアウト、岩がちな秋の狭路を駆け抜けるChikuwaVehicleSystem2搭載の岩山です。 いつも通りのドライブ、アタック、ドリフト車両と少しのバイクあり。各種休憩スペースや公園での撮影も。現在58車種実装済み。 2026⁄03⁄16 AttackカテゴリのGalandPX‚FTOのステアリングアニメーションを修正。",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "ǃ音量注意-Volume warning-ǃ 約2․8kmのオリジナルレイアウト、岩がちな秋の狭路を駆け抜けるChikuwaVehicleSystem2搭載の岩山です。 いつも通りのドライブ、アタック、ドリフト車両と少しのバイクあり。各種休憩スペースや公園での撮影も。現在58車種実装済み。 2026⁄03⁄16 AttackカテゴリのGalandPX‚FTOのステアリングアニメーションを修正。",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 15
         },
         {
           "ID": "wrld_01285683-27db-4d24-aab4-204aba4af686",
           "Name": "Drift Hills CVS2",
-          "RecommendedCapacity": 30,
           "Capacity": 40,
-          "Description": "Drift Hills originally made by TomDom․ Beginner friendly Drift track․ Good for learning how to Tandem․ Thumbnail made by Charlatte （dyls）․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Drift Hills originally made by TomDom․ Beginner friendly Drift track․ Good for learning how to Tandem․ Thumbnail made by Charlatte （dyls）․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 30
         },
         {
           "ID": "wrld_3b4a0fa4-e791-4013-a117-6b1d977989e9",
           "Name": "Rally Finland SS1＂Chikwan metsä＂",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Realistic gravel rally stage․ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945）",
           "Platform": {
             "PC": true,
-            "Android": false,
-            "iOS": false
+            "iOS": false,
+            "Android": false
           },
-          "ReleaseStatus": "public"
+          "Description": "Realistic gravel rally stage․ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945）",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
         },
         {
           "ID": "wrld_8f72eebe-686c-4d4a-9149-8394fc44a033",
           "Name": "神留坂-ChikuwaVehicleSystem2-",
-          "RecommendedCapacity": 16,
           "Capacity": 32,
+          "Platform": {
+            "PC": true,
+            "iOS": false,
+            "Android": false
+          },
           "Description": "ǃ音量注意-Volume warning-ǃ オリジナルレイアウトの下りと上りで道が分かれる一方通行の険しい峠道を攻めるもよしドライブするもよしなワールドです。 ドライブ用のゆったりした車種やバイクも。 2026⁄01⁄18 複数車両においてステアリングが動かない問題の修正、DriftカテゴリのGT68C-2のホイール二重表示の修正。",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
+        },
+        {
+          "ID": "wrld_38a9c594-0a8d-4d3d-a943-56eaef682eb2",
+          "Name": "TTC-S 第３周回路",
+          "Capacity": 32,
+          "Platform": {
+            "PC": true,
+            "iOS": false,
+            "Android": false
+          },
+          "Description": "TTC-S 第３周回路（カントリー路） CVS2",
+          "ReleaseStatus": "public",
+          "RecommendedCapacity": 16
+        }
+      ],
+      "Category": "ドライブ、レース"
+    },
+    {
+      "Category": "技術・学術（文理両方）",
+      "Color": "#8b5cf6",
+      "Worlds": [
+        {
+          "ID": "wrld_4353b7c5-99dd-4cb9-a6a0-04c9d5a33f3c",
+          "Name": "Uchinoura Space Center",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Uchinoura Space Center 内之浦宇宙空間観測所のファンワールドです。",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3128,11 +3160,440 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_38a9c594-0a8d-4d3d-a943-56eaef682eb2",
-          "Name": "TTC-S 第３周回路",
+          "ID": "wrld_996c08b5-fb3b-4459-bd4d-c6939d225f1d",
+          "Name": "ファンメイドVR野辺山天文台",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "国立天文台 野辺山宇宙電波観測所を再現したファンメイドワールドです。非公式です。Created by VSPファンメイドVR野辺山天文台 制作チーム",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c84548c4-9357-4ec4-9afc-eac7d7a191ba",
+          "Name": "ALMA",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Models ˸ Created by S_ASAGIRI",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
+          "Name": "Scale Journey",
+          "RecommendedCapacity": 16,
+          "Capacity": 16,
+          "Description": "素粒子から宇宙まで、スケールを旅するワールドです。 Created by S_Asagiri",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_96315d14-6f32-40ab-9dd4-b9ced78506ae",
+          "Name": "Asagiri N-body Lab․",
+          "RecommendedCapacity": 24,
+          "Capacity": 64,
+          "Description": "重力多体計算で遊べるワールドです。 以下の４つのシミュレータを置いています。 ・惑星形成 ・渦巻銀河 ・銀河の衝突合体 ・宇宙誕生～大規模構造形成 Created by S_ASAGIRI",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_41113a52-6298-4de0-a1ee-76c25108d8b6",
+          "Name": "VFN_Full scale Tokamak fusion reactor",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "核融合コミュニティVirtual Fusion Nexus名義でアップロードした初のワールドです。世界初、自由にアクセス可能な高さ30 mスケールの巨大なトカマク核融合装置をVR空間上に建設しました。今後、ワールドのアップデートやイベントの開催を計画しております。 This is the first VRChat world released by Virtual Fusion Nexus․ We built a 30-m full-scale Tokamak fusion reactor on VRChat․ This would be a world's first open-access full-scale virtual fusion reactor․ Further updates and public events are coming soon․ Modeling˸ Hasegas‚ Hakoyan‚ GONZUI0331 Gimmick˸ IWMTT 【2026․7․13 アップデート】 解説ポスター7点の追加（使用許可あり）、磁力線の安全係数の変更（q ＝ 1⁄3 q ＝ 3）、プラズマの色の変更、Quest版の容量削減、 PC版とQuest版の統合",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_20eed131-1512-499f-8c70-c2f7dc5cdecb",
+          "Name": "Table of Nuclides",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Nuclear Physics ｜ Japanese-Language",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_486f153f-ba7a-4618-8d1e-1395c682576b",
+          "Name": "GravityWell",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "探査機を重力井戸に投げ込んで遊べるワールドです。地球-月系、木星系、星の質量比を自由に変えられる系の３つがあります。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_096a4447-9ce5-4f9e-9865-ca67e24f17b0",
+          "Name": "Gravity",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "壁の惑星写真に触れるとその星の重力を体感できます",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1",
+          "Name": "Animation Live ＂Escape＂",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Models and Animation are Created by S_ASAGIRI․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ac13792c-ec3f-411e-91d3-98d935d4b3f5",
+          "Name": "はやぶさ２タッチダウン・チャレンジ！",
+          "RecommendedCapacity": 32,
+          "Capacity": 32,
+          "Description": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed",
+          "Name": "Tribology World",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "トライボロジー（摩擦・摩耗・潤滑に関する学問分野）について、実際にモノを動かして体験したり、学べるワールドです。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_36c8c2af-1b98-4395-8c0d-69d2348c5b9a",
+          "Name": "巨大数展 - Exhibition of Large Numbers -",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "TTC-S 第３周回路（カントリー路） CVS2",
+          "Description": "ただただ大きい数について考える。 そんなロマン溢れる巨大数の世界をあなたも覗いてみませんか？",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5dcd0010-ed7f-4375-95b9-a9cf9e21be37",
+          "Name": "Country Quiz 国クイズ",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "Do you know all the countries? すべての国を知っていますか?",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d189cfd1-e62d-425f-bcb1-d52d0a63e594",
+          "Name": "Expanding Path",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "A one-way maze from 2D to 5D․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_70a3f92a-376f-49c7-ac0f-a0bdaa05a706",
+          "Name": "Real sky planetarium",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "Hipparchus was used for the modeled star data․ Grades are plotted from -1․46 Sirius to 6․99 grades․ Milky Way galaxy used EDR3 image data of ＂Gaia＂․ The starry sky is at 35 degrees south of Orion․ by Akino Mizuki",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ddeb0f75-8642-4774-b910-d5573bc75026",
+          "Name": "Museum of Evolution",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "A fully fledged museum of evolution‚ featuring interactive simulations‚ giant dinosaurs‚ and tons of interesting and fun info․ Good for anyone with an interest in natural history or biology․ Extensively researched․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_29daf324-96f9-4ba3-a9ad-2a4012effeef",
+          "Name": "Solar System",
+          "RecommendedCapacity": 30,
+          "Capacity": 80,
+          "Description": "An interactive VR planetary showcase with dynamic spatial animations ｜ A captivating fusion of art and science ｜ An immersive educational experience ｜ A guided multiplayer expedition that transforms astronomy into aweaccessible‚ emotional‚ unforgettable ｜ Planets orbit with scientifically accurate scale and motion ｜ Explore Mercury to Neptune‚ Jupiter and many other planets ｜ Experience Mars‚ witness the Chicxulub impact‚ or journey into the Suns fiery core ｜ PCVR ＆ Android ｜ The environment is actively updated and optimized for both VR Quest and desktop usersmaintaining high visual fidelity across platforms․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c937bde4-b585-4e6b-9623-d16525780287",
+          "Name": "Inter-action on the Math",
+          "RecommendedCapacity": 48,
+          "Capacity": 48,
+          "Description": "Interactive playground for intuitive recognition of mathematical concepts",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+          "Name": "Sushi Aquarium 海洋棟",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22",
+          "Name": "Sushi Aquarium 淡水棟",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "世界の淡水魚などを展示している水族館ワールドです（展示数44種類）。kaiiiiiiiiiさんから公開されている続編ワールド「Sushi Aquarium 海洋棟」では海の生き物たちを展示しています。当ワールド内最奥にあるポータルより続けてご覧ください。 このワールドの建築物および魚類のモデルはkaiiiiiiiiiさんと共同で制作されました。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_498c3871-4760-4179-93f2-301fa1e8f402",
+          "Name": "VRC天気予報",
+          "RecommendedCapacity": 16,
+          "Capacity": 33,
+          "Description": "VRChatで天気予報を体感できるワールドです。 ワールド内で表示している天気予報は気象庁HPの内容を転載しています。 2025-05-22 ver1․1 ワールドを一新。軽量化。2025-05-31 ver1․2 科学館追加",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5b8c8005-8e09-4e95-a36f-1b0dcade0d9f",
+          "Name": "SpaceCraft Collection",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "created by S_ASAGIRI․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b3ddaecd-3966-47cc-85bd-6a9fa2feabc3",
+          "Name": "Japan sword Museum ⁄ -シンヤの刀剣博物館-",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "このワールドはBoothで販売している日本刀を展示しています！ また日本刀についてのちょっとした説明などもありますので、日本刀に興味がある人も楽しめます！",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5b435ff8-e5a5-46cc-bfea-285996d1bdc9",
+          "Name": "Cat's Planetarium",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "It is a multifunctional planetarium․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_865570fd-5a54-4974-910c-b3b76b1b38ce",
+          "Name": "HIPPARCOS SALON",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "113‚711個もの星の中を地球から離れて歩き回ることができるワールドです。夜空で見かける星たちに歩いて行ってみてください。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_637b4753-bf69-4f17-9bad-ab8ac2760c7f",
+          "Name": "Manufacturing World - Cutting Tool ⁄ 京セラ",
+          "RecommendedCapacity": 30,
+          "Capacity": 40,
+          "Description": "Manufacturing World - Cutting Tool ⁄ 京セラ",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
+          "Name": "VR Art Museum 西洋絵画美術館 v1․1",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ca491b7d-21ff-4e9a-abe4-f06fba4f3ce2",
+          "Name": "VR実験表現美術館",
+          "RecommendedCapacity": 32,
+          "Capacity": 80,
+          "Description": "Α ΟΦΘΑΛΜΟΣ ΟΥΚ ΕΙΔΕΝ ΚΑΙ ΟΥΣ ΟΥΚ ΗΚΟΥΣΕΝ ΚΑΙ ΕΠΙ ΚΑΡΔΙΑΝ ΑΝΘΡΩΠΟΥ ΟΥΚ ΑΝΕΒΗ VSP6周年記念イベント「クリエイタースポットライト」会場",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
+          "Name": "Korean Study Museum JPN",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "日本語圏の話者のための韓国語学習博物館です。This world is a Korean language learning space for Japanese speakers․ 일본어권 학습자를 위한 한국어학습박물관입니다․",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b2a8d97b-c69e-4988-be07-d7d365cd4c02",
+          "Name": "地球が1cmになる大きさ",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "このワールドは「鬼畜だよ」と何回も忠告しても要望が多かったリアル等倍スケールの太陽系ワールドになります。半径78․88auのワールドです。 制御システムの一部星、座線の制御UIは開発中の物を流用しています。 等倍に当たりScale計算との整合性の確信を得るのに1週間以上の時間はかかっています。 要望に無かった星座線とHUDはせめてもの優しさになります。 全９惑星と月を見つける事が出来て撮ったら「＃VC_Akino」のタグでツイートしてくれると嬉しいな！",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_55b03cde-8e91-43ee-8d48-64e53e2798d4",
+          "Name": "多面体博物館 -polyhedral museum-",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "計30個の立体を展示中 ⁄ unity2019対応＆Quesr用カメラ設置",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_297f348e-fcc6-4337-9d19-9eaa357e7e72",
+          "Name": "Million Sky Highland",
+          "RecommendedCapacity": 50,
+          "Capacity": 50,
+          "Description": "望遠鏡を使ったリアルな天体観測が楽しめます。125万個の星を散りばめた星空は、望遠鏡で拡大すればするほど駒かな星粒に。月や土星も見ごたえがあります。 ⁄ 1․25 million stars from the Gaia star catalog fill the sky‚ with the Milky Way rendered as countless faint stars․ Enjoy beautiful magnified views through realistic telescopes․ （You can also zoom in with the standard camera․） ［Star Data˸ Gaia DR3 （ESA⁄Gaia⁄DPAC）］",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_64006d53-5fde-4e0e-99a8-a755860a6f39",
+          "Name": "SLIM_Touchdown",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "2024⁄05⁄29 Animation Update",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_11bf825d-8764-434e-9a79-f283be8c8921",
+          "Name": "Kyocera Laser World ⁄ 京セラ",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "主に開発中の京セラレーザー製品の完成イメージをご覧いただけます。またレーザー光源が作り出す新たな未来と称して光無線通信Li-Fiの応用例として期待される水中ドローンが動作する様子をご覧いただけるアトラクションを用意しております。イベント開催期間˸6⁄29-7⁄2（20˸00-23˸00）フロアツアーは20時、21時、22時",
           "Platform": {
             "PC": true,
             "Android": false,
